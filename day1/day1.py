@@ -23,6 +23,7 @@ while not found:
 
 
 ### Part 2
+current_index = 0
 found = False
 while not found:
   for i in range(0, len(report)):
