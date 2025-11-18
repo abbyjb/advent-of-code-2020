@@ -1,4 +1,4 @@
-### Read files
+### Read file
 f = open('input.txt', 'r')
 lines = f.readlines()
 total = 2020
